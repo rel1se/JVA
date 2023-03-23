@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.practice13.Practice13ApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-03-23T10:54:54" hostname="DESKTOP-4OEAK8A" time="0.472">
+  <properties/>
+  <testcase name="contextLoads()" classname="com.example.practice13.Practice13ApplicationTests" time="0.472"/>
+  <system-out><![CDATA[13:54:53.901 [Test worker] DEBUG org.springframework.boot.test.context.SpringBootTestContextBootstrapper - Neither @ContextConfiguration nor @ContextHierarchy found for test class [Practice13ApplicationTests]: using SpringBootContextLoader
+13:54:53.906 [Test worker] DEBUG org.springframework.test.context.support.AbstractContextLoader - Could not detect default resource locations for test class [com.example.practice13.Practice13ApplicationTests]: no resource found for suffixes {-context.xml, Context.groovy}.
+13:54:53.907 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils - Could not detect default configuration classes for test class [com.example.practice13.Practice13ApplicationTests]: Practice13ApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+13:54:53.933 [Test worker] DEBUG org.springframework.boot.test.context.SpringBootTestContextBootstrapper - Using ContextCustomizers for test class [Practice13ApplicationTests]: [DisableObservabilityContextCustomizer, PropertyMappingContextCustomizer, Customizer, ExcludeFilterContextCustomizer, DuplicateJsonObjectContextCustomizer, MockitoContextCustomizer, TestRestTemplateContextCustomizer]
+13:54:54.005 [Test worker] DEBUG org.springframework.context.annotation.ClassPathScanningCandidateComponentProvider - Identified candidate component class: file [C:\Users\botoe\IntelliJ IDEA 2022.3.3\practice13\build\classes\java\main\com\example\practice13\Practice13Application.class]
+13:54:54.006 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper - Found @SpringBootConfiguration com.example.practice13.Practice13Application for test class com.example.practice13.Practice13ApplicationTests
+13:54:54.105 [Test worker] DEBUG org.springframework.test.context.util.TestContextSpringFactoriesUtils - Skipping candidate TestExecutionListener [org.springframework.test.context.web.ServletTestExecutionListener] due to a missing dependency. Specify custom TestExecutionListener classes or make the default TestExecutionListener classes and their required dependencies available. Offending class: [jakarta/servlet/ServletContext]
+13:54:54.109 [Test worker] DEBUG org.springframework.test.context.util.TestContextSpringFactoriesUtils - Skipping candidate TestExecutionListener [org.springframework.test.context.transaction.TransactionalTestExecutionListener] due to a missing dependency. Specify custom TestExecutionListener classes or make the default TestExecutionListener classes and their required dependencies available. Offending class: [org/springframework/transaction/interceptor/TransactionAttributeSource]
+13:54:54.110 [Test worker] DEBUG org.springframework.test.context.util.TestContextSpringFactoriesUtils - Skipping candidate TestExecutionListener [org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener] due to a missing dependency. Specify custom TestExecutionListener classes or make the default TestExecutionListener classes and their required dependencies available. Offending class: [org/springframework/transaction/interceptor/TransactionAttribute]
+13:54:54.112 [Test worker] DEBUG org.springframework.boot.test.context.SpringBootTestContextBootstrapper - Using TestExecutionListeners for test class [Practice13ApplicationTests]: [DirtiesContextBeforeModesTestExecutionListener, ApplicationEventsTestExecutionListener, MockitoTestExecutionListener, DependencyInjectionTestExecutionListener, DirtiesContextTestExecutionListener, EventPublishingTestExecutionListener, RestDocsTestExecutionListener, MockRestServiceServerResetTestExecutionListener, MockMvcPrintOnlyOnFailureTestExecutionListener, WebDriverTestExecutionListener, MockWebServiceServerTestExecutionListener, ResetMocksTestExecutionListener]
+13:54:54.114 [Test worker] DEBUG org.springframework.test.context.support.AbstractDirtiesContextTestExecutionListener - Before test class: class [Practice13ApplicationTests], class annotated with @DirtiesContext [false] with mode [null]
+13:54:54.127 [Test worker] DEBUG org.springframework.test.context.support.DependencyInjectionTestExecutionListener - Performing dependency injection for test class com.example.practice13.Practice13ApplicationTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.0.4)
+
+2023-03-23T13:54:54.479+03:00  INFO 7948 --- [    Test worker] c.e.p.Practice13ApplicationTests         : Starting Practice13ApplicationTests using Java 18.0.2.1 with PID 7948 (started by botoe in C:\Users\botoe\IntelliJ IDEA 2022.3.3\practice13)
+2023-03-23T13:54:54.481+03:00  INFO 7948 --- [    Test worker] c.e.p.Practice13ApplicationTests         : No active profile set, falling back to 1 default profile: "default"
+com.example.practice13.components.Student@12c60152
+2023-03-23T13:54:54.975+03:00  INFO 7948 --- [    Test worker] c.e.p.Practice13ApplicationTests         : Started Practice13ApplicationTests in 0.809 seconds (process running for 1.974)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
