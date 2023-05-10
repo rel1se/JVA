@@ -1,0 +1,16 @@
+18087126 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool – HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h37m29s453ms).
+22898539 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool – HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h20m11s413ms).
+29015752 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool – HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h41m57s213ms).
+32778946 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool – HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h2m43s193ms).
+37584285 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool – HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h20m5s340ms).
+43489751 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool – HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h38m25s465ms).
+49639156 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool – HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h42m29s406ms).
+55672590 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool – HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h40m33s434ms).
+59337589 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool – HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h1m4s999ms).
+63256423 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool – HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h5m18s833ms).
+69212839 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool – HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h39m16s417ms).
+74179329 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool – HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h22m46s490ms).
+76642863 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool – HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=41m3s534ms).
+76646075 [SpringApplicationShutdownHook] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean – Closing JPA EntityManagerFactory for persistence unit 'default'
+76646082 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource – HikariPool-1 - Shutdown initiated...
+76646084 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource – HikariPool-1 - Shutdown completed.
